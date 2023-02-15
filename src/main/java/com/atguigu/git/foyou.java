@@ -8,5 +8,6 @@ public class foyou {
         System.out.println("Hello,Git4");
         System.out.println("Hello,Git4");
         System.out.println("Hello,125553");
+        System.out.println("push,125553");
     }
 }
